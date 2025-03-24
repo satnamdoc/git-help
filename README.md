@@ -1,4 +1,4 @@
-# [Git commands from java developer cource sprint #3](https://practicum.yandex.ru/trainer/java-developer-plus/lesson/332f9bef-e574-4600-9b07-c2529cdba26a/#afe01e3c-f093-4497-bafd-6d4f40b732ba)
+# Git commands from java developer cource [sprint #3](https://practicum.yandex.ru/trainer/java-developer-plus/lesson/332f9bef-e574-4600-9b07-c2529cdba26a/#afe01e3c-f093-4497-bafd-6d4f40b732ba)
 
 
 ### git add
