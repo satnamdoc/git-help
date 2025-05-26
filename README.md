@@ -28,7 +28,7 @@ A convenient tool for administering remote connections. Instead of passing the f
 ### git status
 Displays the state of the working directory and the staged snapshot. You’ll want to run this in conjunction with git add and git commit to see exactly what’s being included in the next snapshot.
 
-#Git defs
+# Git concepts
 
 ### Хеш 
 Хеш — идентификатор коммита
@@ -37,10 +37,10 @@ Displays the state of the working directory and the staged snapshot. You’ll wa
 Файл HEAD (англ. «голова», «головной») — один из служебных файлов папки .git. Он указывает на коммит, который сделан последним (то есть на самый новый).
 
 ### Статусы файлов
-####untracked
-####tracked
-####staged
-####modified
+#### untracked
+#### tracked
+#### staged
+#### modified
 
 ```mermaid
 graph LR;
