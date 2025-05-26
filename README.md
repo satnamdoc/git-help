@@ -41,3 +41,12 @@ Displays the state of the working directory and the staged snapshot. You’ll wa
 ####tracked
 ####staged
 ####modified
+
+```mermaid
+graph LR;
+  untracked -- "git add" --> staged;
+  staged    -- "git commit" --> tracked;
+  staged    -- "изменения" --> modified;
+  modified  -- "git add" --> staged;
+  tracked   -- "изменения" --> modified;
+```
