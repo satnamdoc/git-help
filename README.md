@@ -35,3 +35,9 @@ Displays the state of the working directory and the staged snapshot. You’ll wa
 
 ### HEAD
 Файл HEAD (англ. «голова», «головной») — один из служебных файлов папки .git. Он указывает на коммит, который сделан последним (то есть на самый новый).
+
+### Статусы файлов
+####untracked
+####tracked
+####staged
+####modified
